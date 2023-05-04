@@ -1,5 +1,5 @@
-body {
-    font-family: Helvetica, Arial, "sans-serif";
+.titles {
+    font-family: "Playfair Display", Helvetica, Arial, "sans-serif";
 }
 
 ul {
@@ -29,4 +29,5 @@ h2 {
 
 .content {
     font-size: 20px;
+        
 }
