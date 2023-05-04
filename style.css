@@ -5,3 +5,28 @@ body {
 ul {
     font-size: 20px;
 }
+
+.recipe-images {
+    width:600px;
+    height: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    background-color: #FEE8B0;
+    color:  #F97B22;
+    font-size: 40px;
+}
+
+h2 {
+    background-color: #FEE8B0;
+    color: #7C9070;
+    font-size: 32px;
+}
+
+.content {
+    font-size: 20px;
+}
